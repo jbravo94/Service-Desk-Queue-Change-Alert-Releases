@@ -16,9 +16,13 @@ The Source Code is available in this private repository:
 
 https://github.com/jbravo94/Service-Desk-Queue-Change-Alert
 
-
 ## Chrome Extension
 
 The connector for retrieving the credentials in a secure manner is provided with a chrome extension:
 
 https://chrome.google.com/webstore/detail/oaihfnoiihagifdgcdagfkecnafncefh
+
+## Icon
+
+https://dlpng.com/png/6658669
+https://www.iconsdb.com/soylent-red-icons/google-alerts-icon.html
